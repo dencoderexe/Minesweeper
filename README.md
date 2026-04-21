@@ -1,5 +1,5 @@
 # Minesweeper
-Minesweeper game in C programming language. Graphics is realized by “ncurses” library.
+Minesweeper game written in C with GUI implemented using “ncurses” library.
 
 ## The game features:
 - console-based user interface
